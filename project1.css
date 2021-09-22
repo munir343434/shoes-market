@@ -1,0 +1,187 @@
+body{
+
+}
+.container>.container-item1 {
+	flex-direction: row;
+	background-color: black;
+
+	
+
+	font-size: 1.4em;
+
+	
+	}
+	
+	
+	.container-item1>ul>li:first-child{
+		color: white;
+	font-size: 1.4em;
+		padding-bottom: 0.3em;
+		padding-top: em;
+		list-style: none;
+
+		
+	}
+
+	
+	
+.container>.container-item2 {
+	flex-direction: row;
+	background-color: black;
+	font-size: 1.4em;
+	       
+        
+        /* used to remove links below items*/        
+        
+	
+	}
+	.container-item2 ul li:first-child{
+		color: white;
+		font-size: 1.4em;
+		padding-bottom: 0.3em;
+		 list-style: none;
+		 pointer-events: none;
+
+	}
+
+
+.container-item3 ul li:first-child{
+	color: white;
+		font-size: 1.4em;
+		padding-bottom: 0.3em;
+		padding-top: em;
+		list-style: none;
+		pointer-events: none;
+	}
+	.container>.container-item3 {
+	flex-direction: row;
+	background-color: black;
+	font-size: 1.4em;
+	list-style: none;
+
+	}
+	
+
+	.container>.container-item4 {
+	flex-direction: row;
+	background-color: black;
+	font-size: 1.4em;
+	
+	display: flex;
+	
+	}
+	.container-item4 ul li:first-child{
+		color: white;
+		font-size: 1.4em;
+		padding-bottom: 0.3em;
+		padding-top: em;
+		list-style: none;
+		cursor: default;
+        pointer-events: none;        
+        text-decoration: none;
+
+
+	}
+	
+	.container{
+display: flex;
+padding: 20px;
+align-items: center;
+justify-content: space-between;
+width:100px%;
+height: 200px;
+
+	
+
+	
+	
+}
+
+nav{
+
+	height: 40;
+	width: 100%;
+		background-color: #333;
+		position: fixed;
+		padding: 0;
+		margin: 0;
+
+
+}
+
+nav ul{
+	margin: 0;
+	padding: 0;
+}
+nav li:hover{
+	background-color: #444;
+}
+nav li{
+	display: inline;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+nav a{
+	display: inline-block;
+	width: 100px;
+	text-align: center;
+	text-decoration: 0;
+	padding: 10px 0;
+}
+
+
+body{
+
+	background: black;
+	 font-family: sans-serif;
+	 margin: 0;
+	 line-height: 1.5;
+	}
+	a{
+		text-decoration: none;
+		color: #ccc;
+}
+h1{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+
+
+}
+#num1{
+	color: white;
+	font-size: 30px;
+
+text-align: center;
+          
+}
+
+
+#mon2{
+	color: white;
+	font-size: 20px;
+padding-right: 100px;
+padding-left: 100px;
+
+	
+}
+
+
+#show1{
+background: url(download.jpg ) ; 
+	margin:10;
+	padding:0;
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;/*img not move*/
+	width: 100%;
+	height: 100vh; /*fo full sixe picture*/
+	overflow: hidden;/*remove extra spaces around pic*/
+
+
+}
+
+
+	

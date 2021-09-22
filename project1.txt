@@ -1,0 +1,98 @@
+<html> 
+
+<head>
+<title>
+Gls Sports
+</title>
+<link rel="stylesheet" href="E:\web pages\css\project file css\project1.css">
+</head>
+<body>
+	
+<div id="show1">
+<nav>
+<header>
+	
+
+	<ul  >
+		<li >
+			<a href="#showcase">Gl sports</a>
+					</li>
+	     <li><a href="#contact us">Contact us</a></li>
+		<li><a href="#indoor">Indoor</a></li>
+		<li><a href="#outdoor">Outdoor</a></li>
+		<li><a href="#history">History</a></li>
+		<li><a href="#showcase">Gl sports</a>
+		</li>
+
+
+</nav>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	</ul>
+</header>
+<div class="num3">
+	<h1>GL SPORTS<h1>
+		<p id="num1">Your best place to visulize and enjoy play different sports</p>
+	<p2 id="mon2">my spotrs is the best way to organize and enjoy the feel of playing and stepping into the world of visual sports- and shop the one's you want.Enjoy all entertainment provided free and in any platform- MAC and windows </p2>
+
+
+	</div>
+</div>
+	
+<footer>
+<div class="box1">
+	<div class="box2">
+
+
+	<ul id="d">GL sports
+		
+<li ><a href="#">3D Sports</li>
+	<li><a href="#">Arcade games</li>
+<li><a href="#">Virtual reality</li>
+<li><a href="#">Marchabdise</li>
+<li><a href="#">Gift cards</li>
+</ul >
+
+
+	
+				<ul id="d">Gl sports store
+
+<li ><a href="#">Find a store</li>
+<li><a href="#">Today at Gl sports</li>
+<li><a href="#">sports camp</li>
+<li><a href="#">Entertainment</li>
+<li><a href="#">Order sports items</li>
+</ul>
+
+
+<ul id="d" >Gl sports
+<li><a href="#">3D Sports</li>
+	<li><a href="#">Arcade games</li>
+<li><a href="#">Virtual reality</li>
+<li><a href="#">Marchabdise</li>
+<li><a href="#">Gift cards</li>
+
+
+</ul>
+
+<ul id="d">Gl sports
+<li><a href="#">3D Sports</li>
+	<li><a href="#">Arcade games</li>
+<li><a href="#">Virtual reality</li>
+<li><a href="#">Marchabdise</li>
+<li><a href="#">Gift cards</li>
+
+</ul>
+
+</div>
+
+	</div >
+
+</div>
+<div class="fotter bottom">
+	copyright &copy;2021 grrat learning
+	</div>
+</footer>
+</body>
+
+
+</html>
